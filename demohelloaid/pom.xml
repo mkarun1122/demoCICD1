@@ -92,7 +92,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>com.example.demohelloaid.Application</mainClass>
+                        <mainClass>demohelloaid.welcomeCICD</mainClass>
                     </manifest>
                 </archive>
             </configuration>
